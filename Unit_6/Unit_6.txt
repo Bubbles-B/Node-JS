@@ -1,14 +1,14 @@
 Lesson 26
 
-1. run the following to create a new course: http://localhost:3000/courses/new
-2. run the following to see the courses: http://localhost:3000/courses
-3. after reading page 305 run json format to view allcourses in json format: http://localhost:3000/courses?format=json
+1. visit the following to create a new course: http://localhost:3000/courses/new
+2. visit the following to see the courses: http://localhost:3000/courses
+3. after reading page 305 use the following link to view all courses in json format: http://localhost:3000/courses?format=json
 
 ______________________________________________________________________________________________________
 
 Lesson 27:
 
-1. after reading page 313 run the following to see your status: http://localhost:3000/api/courses
+1. after reading page 313 visit the following to see your status: http://localhost:3000/api/courses
 
 ______________________________________________________________________________________________________
 
