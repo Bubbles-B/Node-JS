@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 Lesson 28:
 
-1. after reading page 325 run the following to see the status error: http://localhost:3000/api/courses
+1. after reading page 325 visit the following to see the status error: http://localhost:3000/api/courses
 
 2. To test out the example on page 327 uncomment the following in your models/user.js:
    
