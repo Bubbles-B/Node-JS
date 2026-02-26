@@ -23,8 +23,9 @@ Lesson 28:
 3. Then go to your controllers/usersController.js and uncomment the verifyToken ( on line 167 to 181)
 4. In your routes/apiRoutes.js uncomment router ( on line 7)
 5. create a new user: http://localhost:3000/users/new
+6. Comment everything again starting from step 2 until 4
 
-6. then whilst you application is running also open a new terminal for git bash:
+7. then whilst you application is running also open a new terminal for git bash:
     1. page (330) copy the token that will be create when running the curl command below:
       
        curl -X POST http://localhost:3000/api/login -H "Content-Type: application/x-www-form-urlencoded" -d "email=your@email.com&password=12552"
